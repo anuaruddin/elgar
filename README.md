@@ -18,7 +18,7 @@ Protégé is a powerful tool for developing and managing ontologies. It allows o
 Researchers and developers can collaborate on ontology development using Protégé, ensuring consistency and accuracy.
 
 Acknowledgment:
-It’s great to know that this research received partial support from Interface Corporation, Japan. Collaborations like this contribute to advancements in IoT technologies.
+This research received partial support from Interface Corporation, Japan.
 
 ---
 
