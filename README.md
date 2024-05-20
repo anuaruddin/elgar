@@ -19,3 +19,24 @@ Researchers and developers can collaborate on ontology development using Protég
 
 Acknowledgment:
 It’s great to know that this research received partial support from Interface Corporation, Japan. Collaborations like this contribute to advancements in IoT technologies.
+
+---
+
+Ontology Metadata:
+Title: Elgar Ontology
+Version: 0.4
+Creator: Mohd Anuaruddin
+Date: December 11, 2018
+Description: An ontology specifically designed for the Elgar Platform, which is part of the Internet of Things (IoT) ecosystem.
+
+Purpose and Context:
+The Elgar Ontology serves as a structured representation of knowledge related to IoT services within the Elgar IoT-Platform.
+It captures essential information about IoT services, their properties, and their interactions.
+The ontology is based on the IoT-Lite ontology, which provides a lightweight model for describing IoT devices and services.
+
+Annotation Properties:
+altRelative: Represents relative altitude, especially useful in buildings where floor levels are relevant.
+relativeLocation: Provides a place for where the device is located, using Geonames URIs (e.g., for “University of Surrey”).
+
+Additional Notes:
+The ontology is a working draft, indicating ongoing development and refinement.
